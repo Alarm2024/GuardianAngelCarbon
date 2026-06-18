@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Guardian Angel Carbon"
+authors:
+  - family-names: "ELGHALY"
+    given-names: "ELGHALY"
+year: 2026
+license: "MIT"
+abstract: "A decentralized carbon monitoring and verification protocol for global sustainability."
