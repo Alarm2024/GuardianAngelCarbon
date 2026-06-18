@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Rust](https://img.shields.io/badge/Rust-1.80+-blue.svg)](https://www.rust-lang.org/)
-[![Solidity](https://img.shields.io/badge/Solidity-^0.8.26-black)](https://soliditylang.org/)
+[![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-black)](https://soliditylang.org/)
 [![Zayed Prize](https://img.shields.io/badge/Zayed_Prize-2026_Submission-gold)](https://zayedsustainabilityprize.com/)
 [![GitHub stars](https://img.shields.io/github/stars/Alarm2024/GuardianAngelCarbon?style=social)](https://github.com/Alarm2024/GuardianAngelCarbon/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Alarm2024/GuardianAngelCarbon/pulls)
