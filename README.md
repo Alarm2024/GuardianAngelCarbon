@@ -212,3 +212,6 @@ Energy Category Direct energy optimization intelligence — real‑time renewabl
 Equity Prioritized deployment in the Global South; identical economic returns per tonne regardless of geography
 
 Guardian Angel Carbon: Where innovation meets integrity. Building a transparent, decentralized future for a sustainable world.
+
+---
+*Built with purpose, driven by passion, and engineered for impact. Together, we verify a sustainable tomorrow.* 🌍
