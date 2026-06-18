@@ -1,4 +1,4 @@
-# 🌱 Guardian Angel Carbon
+# 🌱 Guardian Angel Carbon 🪬🧿
 
 **AI‑Driven, Decentralized Carbon Monitoring & Verification Protocol**  
 *Developed by ELGHALY — Zayed Sustainability Prize 2026 Submission*
@@ -55,6 +55,7 @@ Every Guardian Angel Carbon node can be deployed **in under 3 minutes** via a si
 ---
 
 ## 🏗️ System Architecture
+
 
 
 ### Data Flow Logic
