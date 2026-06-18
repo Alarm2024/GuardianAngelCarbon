@@ -211,3 +211,4 @@ Feasibility Proven pilot: 26‑second median latency, 93.4% precision — valida
 Energy Category Direct energy optimization intelligence — real‑time renewable substitution tracking and grid efficiency AI
 Equity Prioritized deployment in the Global South; identical economic returns per tonne regardless of geography
 
+Guardian Angel Carbon: Where innovation meets integrity. Building a transparent, decentralized future for a sustainable world.
