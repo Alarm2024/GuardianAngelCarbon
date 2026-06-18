@@ -1,4 +1,4 @@
-🌐 **[View Live Proposal Dashboard](https://alarm2024.github.io/GuardianAngelCarbon/)**
+🔗 **[View Live Proposal Dashboard](https://alarm2024.github.io/GuardianAngelCarbon/)**
 
 # 🌱 Guardian Angel Carbon 🪬🧿
 
